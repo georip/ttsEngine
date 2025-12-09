@@ -128,6 +128,11 @@ def get_piper_models() -> List[TtsModel]:
         TtsModel(model_dir="vits-piper-vi_VN-vais1000-medium"),
         TtsModel(model_dir="vits-piper-vi_VN-vivos-x_low"),
         TtsModel(model_dir="vits-piper-zh_CN-huayan-medium"),
+        TtsModel(model_dir="vits-zh-hf-fanchen-wnj"),
+        TtsModel(model_dir="sherpa-onnx-vits-zh-ll"),
+        TtsModel(model_dir="vits-zh-hf-fanchen-ZhiHuiLaoZhe_new"),
+        TtsModel(model_dir="kokoro-multi-lang-v1_1|"),
+
 
 
 
